@@ -1,4 +1,4 @@
-# Bug report on the Yummly Component 🐞
+# Bug report on the Yummly Component: 🐞
 
 To file a bug report, you will usually want to provide the following information:
 
