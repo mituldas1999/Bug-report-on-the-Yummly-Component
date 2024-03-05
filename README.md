@@ -15,19 +15,19 @@ A step-by-step guide on how to reproduce the bug.
 What you expected to happen.
 
 ## 5. Actual Result: ❌
-What actually happened.
+What actually happened?
 
 ## 6. Screenshots or Videos: 📸🎥
-Any visual aids that could help in understanding the bug.
+Any visual aids that could help in understanding the bug?
 
 ## 7. System Information: 💻
-Information about the device, OS, browser, app version etc.
+Information about the device, OS, browser, app version, etc.
 
 ## 8. Severity: 🚨
-How critical is the bug (Critical, High, Medium, Low).
+How critical is the bug (Critical, High, Medium, Low)?
 
 ## 9. Priority: ⏰
-How urgently the bug needs to be fixed (Immediate, High, Medium, Low).
+How urgently must the bug be fixed (Immediate, High, Medium, Low).
 
 ---
 
@@ -36,12 +36,12 @@ How urgently the bug needs to be fixed (Immediate, High, Medium, Low).
 **Title:** Unable to Save Favorite Recipe in Yummly Component 📌
 
 **Description:** 📖
-When attempting to save a favorite recipe within the Yummly Component, the system returns an error message saying “Unable to save. Please try again later.”
+When attempting to save a favorite recipe within the Yummly Component, the system returns an error message saying, “Unable to save. Please try again later.”
 
 **Steps to Reproduce:** 👣
 1. Open the app and navigate to the Yummly Component.
 2. Select any recipe.
-3. Click on the ‘Save’ or 'Heart' icon to add to favorites.
+3. Click on the ‘Save’ or 'Heart' icon to add to your favorites.
 4. Observe the error message.
 
 **Expected Result:** 🎯
